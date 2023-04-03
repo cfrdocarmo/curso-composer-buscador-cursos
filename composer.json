@@ -10,7 +10,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.5",
-        "symfony/dom-crawler": "^6.3.x-dev",
+        "symfony/dom-crawler": "^5.4.x-dev",
         "symfony/css-selector": "^6.2"
     },
     "autoload": {
