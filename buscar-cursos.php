@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-require 'vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
